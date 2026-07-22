@@ -1,12 +1,8 @@
 # DeliveryBot - Autonomous IoT Delivery Robot
-
 An autonomous mobile robot designed for smart delivery applications,
 combining embedded systems, IoT communication and real-time monitoring.
 
-
-
-
-##  Main Features
+## Main Features
 
 - Autonomous mobile robot navigation
 - Obstacle detection using ultrasonic sensors
@@ -15,7 +11,6 @@ combining embedded systems, IoT communication and real-time monitoring.
 - Web-based monitoring dashboard
 - Battery/current monitoring
 - Hardware simulation using Proteus
-
 
 ##  System Architecture
 
