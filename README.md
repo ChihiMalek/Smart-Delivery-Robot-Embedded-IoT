@@ -1,4 +1,4 @@
-# 🤖 DeliveryBot - Autonomous IoT Delivery Robot
+# DeliveryBot - Autonomous IoT Delivery Robot
 
 An autonomous mobile robot designed for smart delivery applications,
 combining embedded systems, IoT communication and real-time monitoring.
